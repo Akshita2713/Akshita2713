@@ -1,12 +1,9 @@
-Myself Akshita(@Akshita2713) ,I am a detail-oriented and organized computer applications student with a strong foundation in programming languages like 
-C, C++, Java, Python, and web technologies. I am passionate about creating innovative solutions and is eager to contribute to a dynamic team.
-With experience in HTML ,CSS ,PHP ,Javascript ,data structures, object-oriented programming, python, and vb.NET ,C,C++,SQL.I am well-equipped to tackle complex programming challenges.
-My involvement in Google Development Students' Club and Microsoft Banasthali Vidyapith demonstrates my commitment to continuous learning and staying updated with industry trends.
-Key Skills: C, C++, Java, Python, HTML, CSS,PHP, JavaScript,vb.NET,SQL, Data Structures, Object-Oriented Programming, Project Management, Problem Solving, Code Debugging, Teamwork, Innovation
-Projects:
- * Stationary Management System: Developed a system to track inventory, generate reports for stock, spending, and consumption.
- * Travel Booking App for Physically Disabled People: Designed an app prioritizing accessibility with multiple interfaces tailored to specific needs.
-Looking for opportunities to apply my skills and contribute to meaningful projects.It will be great getting a chance to collaborate on Frontend Web Development Projects.
+Myself Akshita(@Akshita2713) ,I’m a BCA Graduate from Banasthali Vidyapith with a strong foundation in Python, C++, SQL, and full-stack web development (HTML, CSS, JS, PHP). I’ve built tools like stationary management system through vb.Net which allows to keep a track of total manufacturing,raw material,goods etc. 
+SafarEase which allows disabled people to books tickets ,book a cab , ask for volunteer and all in the way they are able to do like blind people are provided with voice navigation,inputs through speaking and tapping options on touchpad to navigate through website and many more features where I handled database design and frontend logic.
+
+As a team player and leader, I’ve been an active member of GDSC and Microsoft Students Club, and won many of the prizes. I secured 1st place in an Ideation challenge during a workshop led by Mr. Vimal Daga.
+
+I'm driven by innovation, teamwork, and a goal to build efficient tech solutions that solve real-world problems.
 Email: akshitasingh13july@gmail.com
 
 <!---
